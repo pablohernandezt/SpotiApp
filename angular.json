@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "spotiApp": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "spotiApp"
+    }
+  },
+  "defaultProject": "spotiApp",
+  "cli": {
+    "analytics": "704d1fad-e6f8-4f79-95ed-f811ef34a3df"
+  }
 }
